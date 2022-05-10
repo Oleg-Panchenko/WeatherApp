@@ -9,7 +9,11 @@ In this App I learned how to:
 - Use GCD to fetch the main thread.
 - Use Core Location to get the current location from the phone GPS.
 
-# Start Screen
+# Content
+- [WelcomeScreen](#welcomescreen)
+- [Guide](#guide)
+
+# WelcomeScreen
 The user is asked for permission to use his current location.
 
 <img width="300" src="https://user-images.githubusercontent.com/77533590/166914725-10c0b130-410a-4f3a-8a7e-3723bbc94e18.png">
